@@ -1,4 +1,5 @@
-//add modern art code here
+/*@pjs preload="campfire.png";*/
+
 PImage img;
 
 
