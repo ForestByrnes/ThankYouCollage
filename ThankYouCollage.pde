@@ -1,17 +1,18 @@
 ///*@pjs preload="campfire.png";*/
 
-PImage img;
+PImage fire;
 
 
 void setup() {
   size(600,600);
   background(255);
   noStroke();
-  img = loadImage("campfire.png");
+  fire = loadImage("campfire.png");
+  image(fire,200,375);
 }
 
 void draw() {
-  image(img,200,375);
+ 
   fill(255);
   text("THANKS FOR BEING COOL",125,200);
   noFill();
