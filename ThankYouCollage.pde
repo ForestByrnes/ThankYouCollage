@@ -1,4 +1,4 @@
-/*@pjs preload="campfire.png";*/
+///*@pjs preload="campfire.png";*/
 
 PImage img;
 
