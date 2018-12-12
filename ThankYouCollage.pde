@@ -1,4 +1,3 @@
-///*@pjs preload="campfire.png";*/
 
 PImage fire;
 
